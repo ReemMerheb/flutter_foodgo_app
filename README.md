@@ -12,7 +12,7 @@ A Flutter application for purchasing delicious burgers, allowing users to browse
 
 ## Screenshots
 
-Include some screenshots of your app here.
+
 ![foodgo1](https://github.com/user-attachments/assets/475027ff-7d6f-46ba-9128-079936979a41)
 ![foodgo2](https://github.com/user-attachments/assets/a517d256-5faf-4b29-9fae-22ef8a811661)
 ![foodgo3](https://github.com/user-attachments/assets/050de623-8727-45a7-9dab-2422b2865d04)
